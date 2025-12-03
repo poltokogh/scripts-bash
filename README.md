@@ -1,4 +1,4 @@
-!!! info inline end "Lorem ipsum"
+>[!lorem ipsum].
     Lorem ipsum dolor sit amet, consectetur
     adipiscing elit. Nulla et euismod nulla.
     Curabitur feugiat, tortor non consequat
